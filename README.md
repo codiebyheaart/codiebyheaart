@@ -58,3 +58,9 @@
   <a href="https://www.linkedin.com/in/pankaj-verma-"><img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Verma-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://codiebyheart.live/"><img src="https://img.shields.io/badge/Website-codiebyheart.live-success?logo=google-chrome&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/codiebyheaart" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px">
+  </a>
+</p>
