@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Profile README for codiebyheaart -->
 
-<!--
-**codiebyheaart/codiebyheaart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Pankaj (Codie by Heart)</h1>
+<h3 align="center">🚀 Developer | Blockchain • AI • Backend • Cloud</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+💻 Passionate developer working at the intersection of **Blockchain, AI, and Backend Engineering**.  
+⚡ Skilled in **Java, Spring Boot, JavaScript, React, APIs, and Cloud (GCP/Azure)**.  
+🌱 Exploring **decentralized apps, AI tools, and scalable backend systems**.  
+🎬 I also create coding content on **[Codie by Heart](https://www.youtube.com/@Codiebyheart)**.  
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-orange?logo=openjdk" />
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?logo=springboot" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Web3-Blockchain-purple?logo=ethereum" />
+  <img src="https://img.shields.io/badge/AI-ML-red?logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-blue?logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-lightblue?logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-red?logo=jenkins" />
+  <img src="https://img.shields.io/badge/DB-MySQL-blue?logo=mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codiebyheaart&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codiebyheaart&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiebyheaart&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📝 Latest from Codie by Heart
+- 🎬 [Top 5 Projects to Get Hired as a Frontend Developer](https://www.youtube.com/watch?v=XXXX)  
+- 🚀 [Tech Career Boosters You Should Know](https://www.youtube.com/watch?v=XXXX)  
+- ⚡ [Quick Coding Tips & AI Tools](https://www.youtube.com/watch?v=XXXX)  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.youtube.com/@Codiebyheart"><img src="https://img.shields.io/badge/YouTube-Codie%20by%20Heart-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pankaj-verma-"><img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Verma-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://codiebyheart.live/"><img src="https://img.shields.io/badge/Website-codiebyheart.live-success?logo=google-chrome&logoColor=white" /></a>
+</p>
