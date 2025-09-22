@@ -9,7 +9,7 @@
 💻 Passionate developer working at the intersection of **Blockchain, AI, and Backend Engineering**.  
 ⚡ Skilled in **Java, Spring Boot, JavaScript, React, APIs, and Cloud (GCP/Azure)**.  
 🌱 Exploring **decentralized apps, AI tools, and scalable backend systems**.  
-🎬 I also create coding content on **[Codie by Heart](https://www.youtube.com/@Codiebyheart)**.  
+🎬 I also create coding content on **[Codie by Heart](https://www.youtube.com/@Codiebyheaart)**.  
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@Codiebyheart"><img src="https://img.shields.io/badge/YouTube-Codie%20by%20Heart-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Codiebyheaart"><img src="https://img.shields.io/badge/YouTube-Codie%20by%20Heart-red?logo=youtube&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pankaj-verma-"><img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Verma-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://codiebyheart.live/"><img src="https://img.shields.io/badge/Website-codiebyheart.live-success?logo=google-chrome&logoColor=white" /></a>
 </p>
