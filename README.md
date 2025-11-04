@@ -46,9 +46,9 @@
 ---
 
 ### 📝 Latest from Codie by Heart
-- 🎬 [Top 5 Projects to Get Hired as a Frontend Developer](https://www.youtube.com/watch?v=XXXX)  
-- 🚀 [Tech Career Boosters You Should Know](https://www.youtube.com/watch?v=XXXX)  
-- ⚡ [Quick Coding Tips & AI Tools](https://www.youtube.com/watch?v=XXXX)  
+- 🎬 [Top 5 Projects to Get Hired as a Frontend Developer](https://youtu.be/qip7BbbMjzM?si=rLvKfKap5LQcY-Mq)  
+- 🚀 [Tech Career Boosters You Should Know](https://youtu.be/E7V12zydaVk?si=U0gBUbm1roUzPJ0W)  
+- ⚡ [Quick Coding Tips & AI Tools](https://youtu.be/Fc4mIPRSn-g?si=tXdSOy4g7pQCVpo)  
 
 ---
 
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/codiebyheaart" target="_blank">
+  <a href="https://topmate.io/pankaj_verma89" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px">
   </a>
 </p>
