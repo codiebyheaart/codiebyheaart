@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codiebyheaart&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=codiebyheaart&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
