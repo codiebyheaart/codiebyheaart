@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codiebyheaart&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codiebyheaart&theme=radical&margin-w=10" />
 </p>
 
 <p align="center">
