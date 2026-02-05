@@ -29,18 +29,22 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codiebyheaart&theme=radical&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codiebyheaart&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=codiebyheaart&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codiebyheaart&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codiebyheaart&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiebyheaart&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codiebyheaart&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 
